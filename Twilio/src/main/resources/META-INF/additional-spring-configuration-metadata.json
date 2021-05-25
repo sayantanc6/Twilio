@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "FROM_NUMBER",
+    "type": "java.lang.String",
+    "description": "A description for 'FROM_NUMBER'"
+  },
+  {
+    "name": "TO_NUMBER",
+    "type": "java.lang.String",
+    "description": "A description for 'TO_NUMBER'"
+  },
+  {
+    "name": "ACCOUNT_SID",
+    "type": "java.lang.String",
+    "description": "A description for 'ACCOUNT_SID'"
+  },
+  {
+    "name": "AUTH_TOKEN",
+    "type": "java.lang.String",
+    "description": "A description for 'AUTH_TOKEN'"
+  }
+]}
